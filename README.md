@@ -50,8 +50,8 @@ Run the following command to run `priority_queue`:
 python3 priority_queue.py
 ```
 
-Run the following command to run `algorithms_compare`:
-Note: This is just a helper code to compare Heapsort, Quicksort and Mergesort.
+Run the following command to run `algorithms_compare`:  
+*Note: This is just a helper code to compare Heapsort, Quicksort and Mergesort.*
 ```bash
 python3 algorithms_compare.py
 ```
